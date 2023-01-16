@@ -37,6 +37,6 @@
 
 
 
-| <a href="https://github.com/hyejineee/github-readme-stats"><img align="center" src="https://github-readme-stats-hyejineee.vercel.app/api?username=hyejineee&show_icons=true&theme=buefy" alt="hyejineee's github stats" /></a> | <a href="https://github.com/hyejineee/github-readme-stats"><img align="center" src="https://github-readme-stats-hyejineee.vercel.app/api/top-langs/?username=hyejineee&layout=compact&theme=buefy&&hide=html" /></a> |
+| <a href="https://github.com/hyejineee/github-readme-stats"><img align="center" src="https://github-readme-stats-hyejineee.vercel.app/api?username=hyejineee&show_icons=true&theme=buefy&count_private=true&hide_border=true" alt="hyejineee's github stats" /></a> | <a href="https://github.com/hyejineee/github-readme-stats"><img align="center" src="https://github-readme-stats-hyejineee.vercel.app/api/top-langs/?username=hyejineee&layout=compact&theme=buefy&hide_border=true&hide=html" /></a> |
 | ------------- | ------------- |
 
