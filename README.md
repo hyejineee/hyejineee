@@ -37,8 +37,8 @@
 
 
 <a href="https://github.com/hyejineee">
-<img align="center" width="49.5%" border="5px solid #555" src="https://github-readme-stats-hyejineee.vercel.app/api?username=hyejineee&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&custom_title=My+GitHub+Stats" alt="hyejineee's Github Stats" />
+<img align="center" width="49.5%" border="5px solid #555" src="https://github-readme-stats.vercel.app/api?username=hyejineee&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&custom_title=My+GitHub+Stats" alt="hyejineee's Github Stats" />
 </a>
 <a href="https://github.com/hyejineee">
-<img align="center" width="49.5%" border="5px solid #555" src="https://github-readme-stats-hyejineee.vercel.app/api/wakatime?username=hyejineee&layout=compact&theme=buefy&langs_count=8&hide=html" alt="hyejineee's Github Stats" />
+<img align="center" width="49.5%" border="5px solid #555" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyejineee&hide=html&theme=buefy&layout=compact" alt="hyejineee's Github Stats" />
 </a>
