@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=F5dF4D&height=300&section=header&text=😎%20hyejineee%20😎&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F5dF4D&height=120&section=header&text=😎%20hyejineee%20😎&fontSize=40)
 
 
 <p>
