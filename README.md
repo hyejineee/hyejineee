@@ -36,10 +36,8 @@
 </p>
 
 
-<a href="https://github.com/hyejineee">
-<img align="center" width="49.5%" border="5px solid #555" src="https://github-readme-stats.vercel.app/api?username=hyejineee&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&custom_title=My+GitHub+Stat" alt="hyejineee's Github Stats" />
-</a>
 
-<a href="https://github.com/hyejineee">
-<img align="center" width="41%" border="5px solid #555" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyejineee&layout=compact&theme=buefy&hide=html," alt="hyejineee's Github Stats" />
-</a>
+|<a href="https://github.com/hyejineee"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hyejineee&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide_border=true" alt="hyejineee's Github Stats" /></a>|<a href="https://github.com/hyejineee"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyejineee&layout=compact&theme=buefy&hide_border=true&hide=html," alt="hyejineee's Github Stats" /></a>|
+|------|---|
+
+
