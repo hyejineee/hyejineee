@@ -7,7 +7,7 @@
   <a href="https://www.instagram.com/active_hyejineee/" target="_blank"><img src="https://img.shields.io/badge/active_hyejineee-FF269E?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
 
-반갑습니다👋🏻 풀스택 지향 개발자 현혜진입니다.
+반갑습니다👋🏻 개발자 현혜진입니다.
 
 - 모험을 좋아합니다. 새로운 것을 경험하면서 인사이트를 얻고 성장합니다.
 - 기록이 중요한 것을 알기에 배운것을 기록하려고 노력하고 있습니다.
