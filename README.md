@@ -4,7 +4,6 @@
 <p>
   <a href="https://hyejineee.github.io/blog" target="_blank"><img src="https://img.shields.io/badge/Blog-FABF15?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:04hineee@gmail.com" target="_blank"><img src="https://img.shields.io/badge/04hineee@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/active_hyejineee/" target="_blank"><img src="https://img.shields.io/badge/active_hyejineee-FF269E?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
 
 반갑습니다👋🏻 개발자 현혜진입니다.
